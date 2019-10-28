@@ -1,1 +1,2 @@
-# Ninix
+# Group_Ninix
+OS project
